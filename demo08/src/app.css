@@ -1,0 +1,6 @@
+.box {
+    background: url('../assets/boy.jpeg');
+    background-size: contain;
+    width: 100px;
+    height: 100px;
+}
